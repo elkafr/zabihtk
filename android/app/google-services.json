@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518662802203",
+    "firebase_url": "https://zabihtk-2f89c.firebaseio.com",
+    "project_id": "zabihtk-2f89c",
+    "storage_bucket": "zabihtk-2f89c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518662802203:android:2b01c3add2fc44410fe1be",
+        "android_client_info": {
+          "package_name": "com.omar.zabihtk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518662802203-d90vehpu0e9as4smb2udrspga7tefiad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhNKJjpsY13Yo2cRAdBm7pRb9vC5RiVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518662802203-d90vehpu0e9as4smb2udrspga7tefiad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

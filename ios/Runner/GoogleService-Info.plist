@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>518662802203-rferq6vfsb2b8vdi60i4aa3lesa3k9ua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518662802203-rferq6vfsb2b8vdi60i4aa3lesa3k9ua</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnTJEDyH9gUaSBRxkGGccN66joMihwUjc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518662802203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.omar.zabihtk</string>
+	<key>PROJECT_ID</key>
+	<string>zabihtk-2f89c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zabihtk-2f89c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518662802203:ios:73f6f6ee0f8d28b80fe1be</string>
+	<key>DATABASE_URL</key>
+	<string>https://zabihtk-2f89c.firebaseio.com</string>
+</dict>
+</plist>
